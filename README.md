@@ -1,4 +1,18 @@
 
+# `DanceVision` 
+🔴 `DanceVision` live-streaming platform.
+
+![image](https://github.com/lukexyz/chronicfantastic/blob/master/media/splash_title_1.jpg?raw=true)
+💪😬💪 💪😙💪 💪🤪💪
+</br>  
+
+> VDO.ninja and AlphaPose for seamless interactive live-streamed rooms.
+
+<p align="center">
+  <img src="https://github.com/lukexyz/chronicfantastic/blob/master/media/instructions_1.jpg?raw=true">
+</p>
+
+
 ## Setup develoment environment with `nbdev`
 
 * Ubuntu / WSL
